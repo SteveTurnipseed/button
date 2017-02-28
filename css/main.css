@@ -1,0 +1,22 @@
+* {
+
+}
+
+body {
+	text-align: center;
+}
+
+.button {
+	position: relative;
+	background-color: cyan;
+	margin: 15px 25px;
+	padding: 5px 10px;
+	border-radius: 5px;
+}
+
+.button:hover {
+	background-color: grey;
+	border: 1px solid blue;
+	box-shadow: 0 1px 1px rgba (0,0,0,.1);
+	color: black;
+}
